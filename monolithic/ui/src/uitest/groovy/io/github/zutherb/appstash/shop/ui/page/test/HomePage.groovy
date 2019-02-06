@@ -1,4 +1,5 @@
 package io.github.zutherb.appstash.shop.ui.page.test
+package io.github.zutherb.appstash.shop.ui.page.test.HomePage
 
 import geb.Page
 
