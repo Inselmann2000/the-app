@@ -21,3 +21,4 @@ class DiscountSpec extends GebReportingSpec {
         at HomePage
     }
 }
+
